@@ -2,3 +2,4 @@ hello git -- version1
 hello master --version1
 hello hot-fix --version1
 hello github-test --version1
+hello git-clone --version1
